@@ -1,0 +1,93 @@
+Script started on Mon Feb 19 01:38:43 2024
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app/nyu-cs2262-001-fa20/sample_time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air sample_time_app % [K[?2004hppwd[?2004l
+/Users/sanampalsule/Documents/time_app/nyu-cs2262-001-fa20/sample_time_app
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app/nyu-cs2262-001-fa20/sample_time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air sample_time_app % [K[?2004hlls[?2004l
+Dockerfile	README.md	run.py
+LICENSE		commands.txt	test.yaml
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app/nyu-cs2262-001-fa20/sample_time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air sample_time_app % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app/nyu-cs2262-001-fa20[0m[27m[24m[J(base) sanampalsule@Sanams-Air nyu-cs2262-001-fa20 % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hggit status[?2004l
+fatal: not a git repository (or any of the parent directories): .git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents[0m[27m[24m[J(base) sanampalsule@Sanams-Air Documents % [K[?2004hf ggit statys  us[?2004l
+fatal: not a git repository (or any of the parent directories): .git
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents[0m[27m[24m[J(base) sanampalsule@Sanams-Air Documents % [K[?2004hccd time_app[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hggit init [?2004l
+Initialized empty Git repository in /Users/sanampalsule/Documents/time_app/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hggit add .[?2004l
+warning: adding embedded git repository: nyu-cs2262-001-fa20
+[33mhint: You've added another git repository inside your current repository.[m
+[33mhint: Clones of the outer repository will not contain the contents of[m
+[33mhint: the embedded repository and will not know how to obtain it.[m
+[33mhint: If you meant to add a submodule, use:[m
+[33mhint: [m
+[33mhint: 	git submodule add <url> nyu-cs2262-001-fa20[m
+[33mhint: [m
+[33mhint: If you added this path by mistake, you can remove it from the[m
+[33mhint: index with:[m
+[33mhint: [m
+[33mhint: 	git rm --cached nyu-cs2262-001-fa20[m
+[33mhint: [m
+[33mhint: See "git help submodule" for more information.[m
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hggit commit -m ""c"o"d"e" "c"h"a"n"g"e"s" "t"o" "i"n"i"t"a"l" [K[A[79C "r"re"p"o"" o"[?2004l
+[main (root-commit) ff8c513] code changes to inital repo
+ Committer: Sanam Palsule <sanampalsule@sanams-air.mynetworksettings.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 1 insertion(+)
+ create mode 100644 .DS_Store
+ create mode 160000 nyu-cs2262-001-fa20
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hggit status[?2004l
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	[31mmodified:   nyu-cs2262-001-fa20[m (modified content, untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004h[7mgit remote add origin https://github.c[7mo[7mm/sanampalsule/sample_time_app.git[27m[K[A[7C[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mco[27mm[27m/[27ms[27ma[27mn[27ma[27mm[27mp[27ma[27ml[27ms[27mu[27ml[27me[27m/[27ms[27ma[27mm[27mp[27ml[27me[27m_[27mt[27mi[27mm[27me[27m_[27ma[27mp[27mp[27m.[27mg[27mi[27mt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004h[7mgit push -u origin master[27m
+[K[A[42C[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27ms[27mt[27me[27mr[1B[K[?2004l
+error: src refspec master does not match any
+[31merror: failed to push some refs to 'https://github.com/sanampalsule/sample_time_app.git'
+[m[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hggtg  [7mgit remote add origin https://github.c[7mo[7mm/sanampalsule/sample_time_app.git[27m[K[A[7C[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mco[27mm[27m/[27ms[27ma[27mn[27ma[27mm[27mp[27ma[27ml[27ms[27mu[27ml[27me[27m/[27ms[27ma[27mm[27mp[27ml[27me[27m_[27mt[27mi[27mm[27me[27m_[27ma[27mp[27mp[27m.[27mg[27mi[27mt[A[13Cpush -u origin master[K[1B[K[A[67C[1B[A[67C                   g  [?2004l[1B
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hgit push -u origin master
+[K[K[A[42C[4Cremote add origin https://github.com/sanampalsule/sample_time_app.git[?2004l
+error: remote origin already exists.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hgit remote add origin https://github.com/sanampalsule/sample_time_app.git[K[A[11Cpush -u origin master[K[1B[K[A[46Cremote add origin https://github.com/sanampalsule/sample_time_app.git[A[7C[K[1B[K[A[42C[?2004l[1B[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hggit push -u origin main[?2004l
+Enumerating objects: 3, done.
+Counting objects:  33% (1/3)Counting objects:  66% (2/3)Counting objects: 100% (3/3)Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 695 bytes | 695.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/sanampalsule/sample_time_app.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004hggit at  status[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	[31mmodified:   nyu-cs2262-001-fa20[m (modified content, untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004h[7mgit ls-files[27m
+[K[A[42C[27mg[27mi[27mt[27m [27ml[27ms[27m-[27mf[27mi[27ml[27me[27ms[1B[K[?2004l
+.DS_Store
+nyu-cs2262-001-fa20
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanams-Air/Users/sanampalsule/Documents/time_app[0m[27m[24m[J(base) sanampalsule@Sanams-Air time_app % [K[?2004h
